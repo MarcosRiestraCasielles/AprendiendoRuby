@@ -1,7 +1,5 @@
-#class Formulario -------------------------
-class Formulario < Iobtain
-#EStoy robreescribiendo el método parametros
-  def parametros()
-
+# Formulario.rb
+class Formulario < Iobtain # Estoy robreescribiendo el metodo parametros
+  def parametros
   end
 end
